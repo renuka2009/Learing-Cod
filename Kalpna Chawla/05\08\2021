@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <center>
+    <head><title> Kalpna Chawla</title></head>
+    <body>
+        <marquee style="color: green;"><h1><em> Kalpna Chawla </em></h1></marquee>
+        <img src="src/img/indian girl.jpg" alt="kalpna" width="350" height="300">
+        </center>
+        </blockquote><h1><em> Kalpna Chawla : India's Daughter .</em></h1></blockquote>
+        <pre >
+ Kalpna Chawla was selected by <mark> NASA </mark> for training as an <mark> astronaut </mark> . Her first space mission in the space shuttle <mark> Columbia </mark> was about 16 days long.
+ She went around the earth 252 times The crew periormed 80 expriment and some test .infortunately columbia broke apart in flames while return to its landing trip .
+ It was flying at an abitude to 200000 feet during its 22th space flight . its killed all the seven crew . The whole  country rouned Kalpna death fo millions 
+ of young indian the story of Kalpna Chawla from a small town who touched the skies had became an inpreration Truly that is why
+ Kalpna Chawla was a shooting star .  
+        </pre>
+        <center>
+            <img src="src/img/kalpna chawla.jpg" alt="Kalpna" width="300" height="250" >
+        </center>
+    </blockquote><h1><em> Kalpna Chawla's Biography .</em></h1></blockquote>
+    <pre>
+        Kalpna Chawla was born in Karnal,Inda,on March 17 on February 01,2003,She deid when the space shuttle colubia crashed during its re-entry to the earth .
+        
+        Kalpna studied at Punjab Engineering collage,India,and graduated in 1982 with a Bachelor of science in Aeronautical Engineer course.  
+        
+        She took her master's degree in Aerospace Engineering at the University of texas in 1984.She finished her Doctor of philosophy degree in Aerospace Engineering 
+        from the University of colorado in 1988.
+        
+        <h2><em> Early life : </em></h2>
+        <center>
+        <img src="src/img/kalpna in rocket.jpg" alt="no photo" width="300" height="300">
+    </center>
+
+Kalpana, who was lovingly called Mantu by her parents, had shown extraordinary interest in flying. She was three or four years old when she first saw an airplane on
+their rooftop flying above their house.
+
+Since then, her fascination with airplanes and flying became eminent. As a child, she always went with her father to a local  
+flying club and watch planes.While in school, her teacher said that Kalpana spends her free time making paper airplanes and flying them .
+
+<h2><em> Career : </em></h2>
+<center>
+<img src="src/img/chavala.jpg" alt="No Photo " width="350" height="300">
+</center>
+
+Kalpana Chawla started working at NASA Ames Research Center in 1988. In 1993 Kalpana became the Vice President and Research Scientist of Overset Methods Inc.
+in Los Altos, California. She formed a team with other researchers to simulate moving multiple body systems.
+
+She developed and implemented an efficient technique to perform aerodynamic optimization. Kalpana’s works are documented and being used in conferences and journals.
+Her dedication to her profession has made her be recognized and earned her higher positions at NASA.
+
+<h2><em> Kalpana’s Legacy :</em></h2>
+<center>
+    <img src="src/img/space girl.jpg" alt="no photo" width="350" height="300">
+</center>
+The life and career of Kalpana Chawla served as an inspiration to women who dream of being in space someday.
+
+Kalpana’s legacy continues even after her death. According to Kalpana’s father, Banarasi Lal Chawla, his daughter’s only dream is for children,
+especially women, to not be deprived of education.
+
+The following are some of the things that will serve as a shining remembrance that a woman astronaut from India carved her name in the history of
+NASA once upon a time.
+
+<h2><em> Kalpna death : </em></h2>
+<center>
+    <img src="src/img/team of kalpna.jpg" alt="no photo" width="350" height="300">
+</center>
+
+Kalpana’s death was not in vain because several doors of opportunities have been opened for others aspiring to follow in her footsteps. 
+She will be remembered as the first Indian woman who did not let her racial origin hinder her from setting foot in space
+<center>
+    <h1><em> First Indian woman in space : Kalpna Chawla</em></h1>
+<img src="src/img/childhood.jpg" alt="No photo" width=" 1000" height="1000">
+<a href="https://github.com/renuka2009"> visit to my github</a>
+
+</center>
+    </pre>
+
+        
+
+        <style>
+            body {
+              background-image: url('src/img/super girl.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: 100% 100%;
+            }
+            h1
+            {
+                color: orange;
+            }
+            a:link {
+          color:  white;
+          background-color: transparent;
+          text-decoration: none;
+        }
+        
+        a:visited {
+          color: orange;
+          background-color: transparent;
+          text-decoration: none;
+        }
+        
+        a:hover {
+          color : blue;
+          background-color: transparent;
+          text-decoration: underline;
+        }
+        
+        a:active {
+          color: green;
+          background-color: transparent;
+          text-decoration: underline;
+        }
+            </style> 
+            
+    </body>
+
+</html>
