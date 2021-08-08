@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head> <title> Time Table</title>
+        
+        <style>
+            table ,th , td{
+                border: 1px solid black;
+                border-collapse : collapse ;
+                background-color: lightyellow;
+                 }
+                 th , td {
+                     padding: 5px;
+                     text-align: left;
+                 }
+                 a:link {
+                color:  white;
+                background-color: transparent;
+                text-decoration: none;
+              }
+              
+              a:visited {
+                color: orange;
+                background-color: transparent;
+                text-decoration: none;
+              }
+              
+              a:hover {
+                color : blue;
+                background-color: transparent;
+                text-decoration: underline;
+              }
+              
+              a:active {
+                color: green;
+                background-color: transparent;
+                text-decoration: underline;
+              }
+                 
+               
+                </style>
+    </head>
+    <center>
+    <body>
+        <p><h1> Exam time table</h1></p> 
+        <pre><h2>
+            Name : Renuka .
+            std : 6 th
+            div : A
+            Roll no : 12
+        </h2>
+        </pre>
+    </center>
+    <center>
+    <table style="width: 60%;">
+        <p><h1>Oral exam time table</h1>  </p>
+        <tr>
+            <th> SR NUM </th>
+            <th> Date/Day </th>
+            <th> Subject </th>
+            <th> Oral exam </th>
+        </tr>
+        <tr>
+            <th>  1 . </th>
+            <th> 07-08-2021 , Saturday </th>
+            <th> Maths </th>
+            <th> Table 1to30 and matha mental paper and some question . </th>
+        </tr>
+        <tr>
+            <th> 2 . </th>
+            <th> 08-08-2021, Sunday </th>
+            <th> English </th>
+            <th> Poem 2,4,7 and reading question 1,3,5,6, and fill in the blank and answer in one word Dictation  . </th>
+        </tr>
+        <tr>
+            <th> 1 .</th>
+            <th> 09-08-2021, Monday </th>
+            <th> History , Geo,civis </th>
+            <th> reading chp 1,4,5 fill in the blank answer in short,long answer in one word Dictation . </th>
+        </tr>
+        <tr>
+            <th> 3 .</th>
+            <th> 10-08-2021 , Tuesday </th>
+            <th> Science </th>
+            <th> reading chp 3,6 fill in blank answer in word , answer in short,long Dictation .  </th>
+        </tr>
+         <th> 4 .</th>
+         <th> 11-08-2021 , Wenesday </th>
+         <th> Hindi </th>
+         <th> Poem 2,5,6  reading 1,3,4, Dictation </th>
+         <tr>
+             <th> 5 . </th>
+             <th> 12-08-2021 , Thursday</th> 
+             <th> Marathi </th>
+             <th> Poem 1,3,6 reading 2,4,5 Dictation</th>
+         </tr>
+         <tr>
+             <th> 6 .</th>
+             <th> 13-08-2012 , Friday </th>
+             <th> Art </th>
+             <th> Topic : Water save ,  Topic :    Sencery , Topic :  Doodle . </th>
+             </tr>
+            
+            </table>
+            <table  style="width:60%;"><p><h1> Writen exam time table</h1></p>
+                <p><h2>Your school will be till 7:00 to 10:00</h2></p>
+                <tr>
+                    <th> SR NUM  </th>
+                    <th> Date/Day </th>
+                    <th> Subject </th>
+                    <th> Writen exam </th>
+                </tr>
+                <tr>
+                <th> 1 .</th>
+                <th> 16-08-2021,Monday</th>
+                <th> Maths </th>
+                <th> Maths chp 1,2,8,3</th>
+                </tr>
+                <tr> 
+                    <th> 2 .</th>
+                    <th> 17-08-2021,Tuesday </th>
+                    <th> English </th>
+                    <th> English chp 1,2,3,4,5,6,7 </th>
+                </tr>
+                <tr> 
+                    <th> 3 .</th>
+                    <th> 18-08-2021,Wenesday </th>
+                    <th> Histoy,civis </th>
+                    <th> History chp 1,2,3,4,5 , civis 1,2,3,7 </th>
+                    </tr>
+                    <tr>
+                        <th> 4 .</th>
+                        <th> 19-08-2021,Thursday,</th>
+                        <th> Science</th>
+                        <th> Science chp 1,2,3,4,5,6 </th>
+                    </tr>
+                    <tr>
+                        <th> 5 . </th>
+                        <th> 20-08-2021,Friday </th>
+                        <th> Hindi </th>
+                        <th> Hindi chp 1,2,3,4,5,6 </th>
+                    </tr>
+                    <tr> 
+                        <th> 6 . </th>
+                        <th> 21-08-2021,Saturday  </th>
+                        <th> Marathi  </th>
+                        <th> Marathi chp 1,2,3,4,5,6  </th>
+                    </tr>
+                    <tr>
+                        <th> 7 . </th>
+                        <th> 22-08-2021,Sunday  </th>
+                        <th> Com,Value  </th>
+                        <th> com chp 1,2,3 + oral exam ,value chp 1,2,3,4,5, + oral exam</th>
+                    </tr>
+                    <p><h3>All of you childer <cite>  ALL THE BEST</cite></h3> </p>
+            </table>
+            <a href="https://github.com/renuka2009"> visit to my githup</a>
+            
+            
+</center>
+    </body>
+</html>
